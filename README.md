@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0011-container-with-most-water) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0136-single-number) |
+| [0228-summary-ranges](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0228-summary-ranges) |
 | [0485-max-consecutive-ones](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
