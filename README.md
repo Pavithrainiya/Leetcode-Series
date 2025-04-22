@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0005-longest-palindromic-substring) |
+| [0168-excel-sheet-column-title](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0171-excel-sheet-column-number) |
 ## Dynamic Programming
 |  |
@@ -49,5 +50,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
