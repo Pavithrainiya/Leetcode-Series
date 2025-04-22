@@ -41,8 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0005-longest-palindromic-substring) |
+| [0171-excel-sheet-column-number](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0171-excel-sheet-column-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
