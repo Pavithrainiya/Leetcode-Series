@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0171-excel-sheet-column-number) |
+| [0389-find-the-difference](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,8 +74,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
