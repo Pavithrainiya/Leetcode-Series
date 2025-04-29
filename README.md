@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0011-container-with-most-water) |
+| [0049-group-anagrams](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0049-group-anagrams) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0136-single-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0171-excel-sheet-column-number) |
@@ -78,12 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0389-find-the-difference) |
