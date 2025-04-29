@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0005-longest-palindromic-substring) |
+| [0038-count-and-say](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0168-excel-sheet-column-title) |
