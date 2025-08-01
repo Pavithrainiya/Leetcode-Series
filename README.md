@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0171-excel-sheet-column-number) |
 | [0389-find-the-difference](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0389-find-the-difference) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
