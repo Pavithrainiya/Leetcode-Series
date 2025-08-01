@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0171-excel-sheet-column-number) |
 | [0389-find-the-difference](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,10 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
 | ------- |
