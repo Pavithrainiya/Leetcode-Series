@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0485-max-consecutive-ones) |
+| [3790-fruits-into-baskets-ii](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0349-intersection-of-two-arrays) |
+| [3790-fruits-into-baskets-ii](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0412-fizz-buzz) |
+| [3790-fruits-into-baskets-ii](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0424-longest-repeating-character-replacement) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
