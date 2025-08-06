@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0812-rotate-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0101-symmetric-tree) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Pavithrainiya/Leetcode-Series/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
